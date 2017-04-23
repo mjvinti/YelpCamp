@@ -2,7 +2,7 @@
 A project that was completed as a part of [Colt Steele's bootcamp](https://www.udemy.com/the-web-developer-bootcamp/).
 Full Stack JavaScript App
 Built with: Node, Express, EJS, Bootstrap, Passport
-Site deployed on Heroku at:
+Site deployed on Heroku at: https://serene-scrubland-35724.herokuapp.com/
 
 #YelpCamp
 * Add Landing Page
