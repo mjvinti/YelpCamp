@@ -1,3 +1,9 @@
+# YelpCamp
+A project that was completed as a part of [Colt Steele's bootcamp](https://www.udemy.com/the-web-developer-bootcamp/).
+Full Stack JavaScript App
+Built with: Node, Express, EJS, Bootstrap, Passport
+Site deployed on Heroku at:
+
 #YelpCamp
 * Add Landing Page
 * Add Campgrounds Page that lists all campgrounds
@@ -5,6 +11,8 @@
 Each Campground has:
 * Name
 * Image
+* Description
+* Price per night
 
 #Layout and Basic Styling
 * Create our header and footer partials
@@ -135,3 +143,4 @@ Comment Destroy Route:      /campgrounds/:id/comments/:comment_id
 * Demo working version
 * Install and configure connect-flash
 * Add bootstrap alerts to header
+
